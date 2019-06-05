@@ -7,6 +7,7 @@
 #COMMENTS // COLOR			#898787 - GREY
 #COMMENTS /**/ COLOR		#898787	- GREY
 
+##############################################
 
 # GUI - STATUS
 status.notice.fgcolor = #9BE2E6
@@ -41,6 +42,8 @@ buttons.status.color = #ffffff
 linestatus.color = #ffffff
 linestatus.bgcolor = #404040
 
+##############################################
+
 # EDITOR - DETAILS
 
 # foreground and background colors
@@ -72,6 +75,7 @@ editor.eolmarkers.color = #999999
 editor.brackethighlight = true
 editor.brackethighlight.color = #006699
 
+##############################################
 
 # TEXT - KEYWORDS
 
